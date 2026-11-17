@@ -1,0 +1,7 @@
+print("=" * 30)
+print("АНКЕТА СТУДЕНТА")
+print("=" * 30)
+name = input("ваше имя: ")
+age_str = input("ваш возраст: ")
+subjects_str = input("любимые предметы: ")
+print("=" * 30)
