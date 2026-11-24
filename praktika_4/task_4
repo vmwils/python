@@ -1,0 +1,7 @@
+import math
+n = int(input('кол-во школьников: '))
+k = int(input('кол-во мандаринов: '))
+x = (k // n)
+y = (k % n)
+print(x)
+print(y)
